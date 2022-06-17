@@ -15,3 +15,8 @@
 3. hello
 
 > like is short, use python!
+
+```python
+def hello();
+    print('hello world')
+```
